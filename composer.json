@@ -1,6 +1,6 @@
 {
-    "name": "mailchimp/transactional",
-    "version": "1.0.51",
+    "name": "searchanise/mailchimp-transactional-php",
+    "version": "2.1",
     "description": "",
     "keywords": [
         "swagger",
