@@ -100,6 +100,11 @@ class Configuration
     {
         return $this->apiKey;
     }
+    
+    public function getMessages()
+    {
+        return $this->messages;
+    }
 
     public function getRequestClient()
     {
